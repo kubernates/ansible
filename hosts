@@ -1,2 +1,2 @@
 [app]
-54.89.226.89
+54.89.226.89 ansible_ssh_pass=ubuntu ansible_ssh_user=root
